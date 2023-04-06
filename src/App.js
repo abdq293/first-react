@@ -6,6 +6,8 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        
+        <h2>trying git adding temmp</h2>
         <h2>the temp is 55c</h2>
       </header>
     </div>
